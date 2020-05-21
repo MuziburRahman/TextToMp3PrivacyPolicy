@@ -1,7 +1,7 @@
 <h1>Text To Mp3 Privacy Policy</h1>
 
 
-<p>Effective date: March 18, 2020</p>
+<p>Effective date: May 22, 2020</p>
 
 
 <p>Text To Mp3 operates the Text To Mp3 UWP application (the "Service").</p>
@@ -12,8 +12,6 @@
 
 <p>The app does not collect any personal data.</p>
 
-<h2>Use of Data</h2>
-    
 <h2>Changes To This Privacy Policy</h2>
 <p>This Privacy Policy may be updated from time to time. You will be notified of any changes by posting the new Privacy Policy on this page.</p>
 <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.</p>
